@@ -1,41 +1,21 @@
-# 👩‍💻 ¡Hola, soy Reyna Miranda!
+# 👩‍💻 Hi, soy Reyna Miranda
 
-🎓 Soy estudiante de cuarto año de **Ingeniería en Desarrollo de Software** en la **Universidad de El Salvador**. Actualmente trabajo (fuera del ámbito tecnológico), pero estoy en búsqueda de oportunidades que me permitan crecer como desarrolladora.
+🎓 Estudiante de 4° año de **Ingeniería en Desarrollo de Software** en la **Universidad de El Salvador**.  
+🎯 Apasionada por el **Frontend** y el diseño **UI/UX**, sin dejar de explorar el mundo del Backend.  
+🤝 Abierta a prácticas, colaboraciones y oportunidades que fortalezcan mi formación profesional.
 
----
+## 🛠️ Tecnologías
 
-## 💡 Sobre mí
+HTML5 · CSS3 · JavaScript · Bootstrap · Java · C++ · PHP (Laravel)
 
-✨ Me apasiona crear experiencias visuales atractivas para el usuario. Por eso, me estoy enfocando en aprender y desarrollarme como **desarrolladora Frontend** y en el área de **UI/UX Design**.  
-💻 Aunque también tengo interés en el Backend, disfruto más trabajar con lo que el usuario puede ver, sentir y navegar.
+## 📫 Contacto
 
----
+- 📧 miranda61bsw@gmail.com  
+- 🎓 mr21082@ues.edu.sv
 
-## 🧰 Tecnologías que he utilizado
+## 📊 GitHub Stats
 
-- 🌐 HTML5, CSS3, JavaScript  
-- 🎨 Bootstrap, diseño UI básico  
-- 🧠 Java, C++, PHP con Laravel  
-- 🧪 Experiencia en proyectos universitarios
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rey03Lu&theme=merko)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rey03Lu&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-## 🚀 Actualmente estoy:
-
-- 💭 Planeando y organizando proyectos personales para mejorar mis habilidades como desarrolladora Frontend/UI  
-- 📚 Aprendiendo más sobre buenas prácticas de diseño, accesibilidad web y componentes interactivos  
-- 🤝 Abierta a colaborar en proyectos o prácticas que aporten a mi formación profesional
-
----
-
-## 📫 Contactos
-
-- ✉️ **Correo personal**: [miranda61bsw@gmacil.com]  
-- 🏫 **Correo académico**: [mr21082@ues.edu.sv] 
-
----
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rey03Lu&theme=merko)](https://git.io/streak-stats)
-
+☕ Fun fact: Me encanta el café... ¡con menta! 😄
