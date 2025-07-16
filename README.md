@@ -18,5 +18,3 @@ HTML5 · CSS3 · JavaScript · Bootstrap · Java · C++ · PHP (Laravel)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rey03Lu&theme=merko)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rey03Lu&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-☕ Fun fact: Me encanta el café... ¡con menta! 😄
