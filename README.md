@@ -1,4 +1,5 @@
-# 👩‍💻 Hi, soy Reyna Miranda
+![Banner](./kitty.jpg)
+# Hi, soy Reyna Miranda
 
 🎓 Estudiante de 4° año de **Ingeniería en Desarrollo de Software** en la **Universidad de El Salvador**.  
 🎯 Apasionada por el **Frontend** y el diseño **UI/UX**, sin dejar de explorar el mundo del Backend.  
