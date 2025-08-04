@@ -11,7 +11,7 @@ HTML5 · CSS3 · JavaScript · Bootstrap · Java · C++ · PHP (Laravel)
 
 ## 📫 Contacto
 
-- 📧 miranda61bsw@gmail.com  
+- 📧 reyna.miranda.dev@gmail.com  
 - 🎓 mr21082@ues.edu.sv
 
 ## 📊 GitHub Stats
